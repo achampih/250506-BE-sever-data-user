@@ -37,7 +37,7 @@ npm install express uuid
 npm install -D  npm install -D typescript ts-node @types/node  concurrently @types/express 
 
 ```
-### 3. TypeScript `tsconfig.ts` konfigurieren und anpassen(siehe Template-Readme)
+### 3. TypeScript `tsconfig.ts` konfigurieren und anpassen
 ```
 npx tsc --init
 ```
